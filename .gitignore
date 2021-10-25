@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# MAC
+.DS_Store
+
+# Power point junk file
+~\$*
